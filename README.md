@@ -1,15 +1,245 @@
-# 💫 About Me:
-🚀 Hey there! I’m Gaurav Lodhi 👋<br>🎓 Final-year B.Tech student @ DTU | 🧠 Problem Solver | 💻 Full-Stack Dev<br><br> 💼 Software Developer Engineer | Full-Stack Web Developer | MERN & Next.js Enthusiast | DSA | C++ | JAVA | PYTHON | SDLC | 1000+ DSA Problems Solved | IEEE Research Contributor | Open Source Contributor <br><br>🛠️ Tech I 💙: React.js ⚛️ | Next.js ⚡ | Node.js 🌐 | TypeScript 🌀<br>🧠 Passionate about: Web Dev 🌍 | AI 🤖 | Clean Code 🧼 | Scalable Systems 📈<br><br>💡 Projects that built me:<br>📁 Fast-File → Secure file sharing w/ Supabase 🔐<br>👥 Code-Friend → Real-time coding collab 💬<br>🥬 Freshness Detector → ML + OCR for perishable goods 🍅📦<br><br>🏆 Hackathon Winner 🥇 | 📚 1000+ DSA Problems Solved<br>💡 IEEE Research + Patent Contributor 🧾🧠<br><br>📫 Let’s connect, collab & build awesome stuff together!
+# 👋 Hey, I'm Gaurav Lodhi
 
+### Backend Engineer · Java · Spring Boot · Distributed Systems
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaurav-Lodhi10&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaurav-Lodhi10&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Lodhi10&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build **backend systems that are designed to scale, survive failures, and remain maintainable**.
+
+Currently focused on **Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, System Design & Distributed Systems**.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Backend Engineering                                        │
+│                                                              │
+│  Java / Spring Boot     → APIs & Microservices              │
+│  PostgreSQL             → Data & Transactions               │
+│  Redis                  → Caching & Distributed State       │
+│  Kafka                  → Event-Driven Architecture         │
+│  Docker / Kubernetes    → Containers & Deployment           │
+│  AWS                    → Cloud Infrastructure               │
+│  System Design          → Scalability & Reliability         │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gaurav-Lodhi10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Lodhi10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Lodhi10&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Lodhi10&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Lodhi10&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🧠 What I'm Working On
+
+```yaml
+currently_learning:
+  - Spring Boot
+  - Advanced Java
+  - Multithreading & Concurrency
+  - Distributed Systems
+  - System Design
+  - Kafka
+  - Redis
+  - Kubernetes
+  - AWS
+
+building:
+  - Production-grade authentication service
+  - Event-driven backend systems
+  - Scalable REST APIs
+  - Distributed system components
+
+engineering_focus:
+  - scalability
+  - reliability
+  - observability
+  - performance
+  - clean architecture
+```
+
+---
+
+## 🛠️ Backend Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker,kubernetes,aws,linux,git,github,nginx" />
+
+</p>
+
+### Supporting Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,mongodb,graphql,python,cpp,postman" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Authentication & Authorization Service
+
+**Spring Boot · PostgreSQL · Redis · JWT · Docker**
+
+Production-oriented authentication service implementing:
+
+* JWT access & refresh tokens
+* Role-Based Access Control
+* Password hashing
+* Token validation
+* Refresh-token rotation
+* Redis-based session/token management
+* PostgreSQL persistence
+* Flyway database migrations
+* Dockerized deployment
+
+---
+
+### 💻 Code-n-Friend
+
+**React · Next.js · MongoDB · Prisma · Stream API**
+
+Real-time collaborative coding platform designed around:
+
+* Real-time communication
+* Collaborative coding
+* User sessions
+* Persistent data
+* API-driven architecture
+
+---
+
+### 🗺️ Offline Map Tile Service
+
+**Node.js · Express · Docker · Google Cloud Storage · Leaflet**
+
+Backend microservice for serving offline map tiles with:
+
+* Local tile caching
+* Cloud storage integration
+* Docker deployment
+* Rate limiting
+* Offline-first architecture
+* Location-based services
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Gaurav-Lodhi10&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Gaurav-Lodhi10?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Gaurav-Lodhi10?style=for-the-badge&logo=github&label=TOTAL%20STARS"/>
+<img src="https://img.shields.io/github/commit-activity/y/Gaurav-Lodhi10?style=for-the-badge&logo=git&label=COMMITS"/>
+<img src="https://img.shields.io/github/last-commit/Gaurav-Lodhi10?style=for-the-badge&logo=github&label=LAST%20COMMIT"/>
+
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+```text
+Data Structures & Algorithms
+        ↓
+Competitive Programming
+        ↓
+Low-Level Design
+        ↓
+Multithreading & Concurrency
+        ↓
+System Design
+        ↓
+Distributed Systems
+```
+
+I care less about memorizing solutions and more about understanding **why systems behave the way they do**.
+
+---
+
+## 🎯 Current Direction
+
+> **Build → Break → Debug → Understand → Scale**
+
+My current goal is to become a strong **backend engineer** capable of taking a system from:
+
+```text
+Requirement
+    ↓
+API Design
+    ↓
+Database Design
+    ↓
+Concurrency
+    ↓
+Caching
+    ↓
+Messaging
+    ↓
+Distributed Architecture
+    ↓
+Docker
+    ↓
+Kubernetes
+    ↓
+AWS
+    ↓
+Monitoring & Reliability
+```
+
+---
+
+## 📚 Beyond Code
+
+* 🧠 System Design
+* ⚙️ Backend Architecture
+* 🔥 Distributed Systems
+* 🧵 Java Concurrency
+* 🗄️ Database Internals
+* 📡 Event-Driven Architecture
+* ☁️ Cloud Infrastructure
+* 🧩 Open Source
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Gaurav-Lodhi10">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gaurav-lodhi/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Building systems, not just features.
+
+</p>
