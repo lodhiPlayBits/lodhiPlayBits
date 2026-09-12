@@ -190,7 +190,7 @@ Real-time collaborative coding platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lodhiPlayBits&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lodhiPlayBits&theme=github_dark" width="95%"/>
 
 </div>
 
